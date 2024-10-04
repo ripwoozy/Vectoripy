@@ -1,8 +1,8 @@
-[![Banner](Assets/Logo.jpg)](https://github.com/3daWoozy/)
+[![Banner](Assets/Logo.jpg)](https://github.com/ripwoozy/)
 [![Language](https://img.shields.io/badge/Language-Python-4B8BBE)](https://wiki.python.org/moin/BeginnersGuide)
 [![License](https://img.shields.io/badge/License-MIT-239120)](#-license)
 [![Reddit](https://img.shields.io/badge/Reddit-Anki%20Vector-FF4500?logo=reddit)](https://www.reddit.com/r/AnkiVector/)
-![GitHub stars](https://img.shields.io/github/stars/3daWoozy/Vectoripy?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ripwoozy/Vectoripy?style=social)
 
 **Vectoripy** is a Python project that seamlessly integrates the Anki Vector robot with the Spotify API, allowing Vector to display real-time track info, including album art, and control playback with gestures!
 
